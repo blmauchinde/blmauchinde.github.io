@@ -41,10 +41,11 @@ body, html {
       font-size: 3.5rem; 
       margin: 0.5rem auto 0.5rem 1.5rem;  
       font-weight: 300;
+      color: #FFF;
   }
 
-  #ngo-list h2:first-child {
-       text-decoration: none;
+  #ngo-list > h2{
+      text-decoration: none;
       padding-bottom:2.5rem;
 }
   
